@@ -1,6 +1,8 @@
 # Time-Series-Analysis-and-Forecasting
 This repository contains everything you need to become proficient in Time Series Analysis and Forecasting
 
+Day 1: [Introduction to Time Series Analysis and Forecasting](https://medium.com/coders-mojo/day-1-of-15-days-of-time-series-analysis-and-forecasting-with-projects-series-5ba3b6cf7528?sk=7a5826927d95b8fd22deae9ee53bc54d)
+
 # Statistics
 
 Statistics Basics
