@@ -5,108 +5,108 @@ Day 1: [Introduction to Time Series Analysis and Forecasting](https://medium.com
 
 # Statistics
 
-Statistics Basics
+[Statistics Basics](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Advanced Statistics
+[Advanced Statistics](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
 # Visualizing Time Series
 
-Introduction to date and time
+[Introduction to date and time](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Importing time series data
+[Importing time series data](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Cleaning and preparing time series data
+[Cleaning and preparing time series data](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Visualizing the datasets
+[Visualizing the datasets](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Timestamps
+[Timestamps](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Periods
+[Periods](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Shifting and lags
+[Shifting and lags](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Resampling
+[Resampling](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Using date_range
+[Using date_range](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Using to_datetime
+[Using to_datetime](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
 # Finance
 
-Percent change
+[Percent change](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Stock returns
+[Stock returns](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Time Series Comparison
+[Time Series Comparison](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
 # SQL
 
-Set Theory Operations, Stored Procedures and CASE statements in SQL
+[Set Theory Operations, Stored Procedures and CASE statements in SQL](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Wildcards, Aggregation and Sequences in SQL
+[Wildcards, Aggregation and Sequences in SQL](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Subqueries, Group by, order by and Having clauses in SQL and Analytical Functions
+[Subqueries, Group by, order by and Having clauses in SQL and Analytical Functions](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Window Functions, Grouping Sets and Constraints in SQL
+[Window Functions, Grouping Sets and Constraints in SQL](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Common Expression Table, UNNEST Clause, SQL vs NoSQL Databases
+[Common Expression Table, UNNEST Clause, SQL vs NoSQL Databases](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Triggers, Pivot and Cursors in SQL
+[Triggers, Pivot and Cursors in SQL](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Views, Indexes and Auto Increment in SQL
+[Views, Indexes and Auto Increment in SQL](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Query optimizations, Performance tuning in SQL
+[Query optimizations, Performance tuning in SQL](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
 # Charts
 
-OHLC charts
+[OHLC charts](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Candlestick charts
+[Candlestick charts](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Mean Square Convergence
+[Mean Square Convergence](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Autocorrelation
+[Autocorrelation](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Partial Autocorrelation
+[Partial Autocorrelation](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Trends
+[Trends](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Error
+[Error](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Seasonality
+[Seasonality](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Noise
+[Noise](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-White Noise
+[White Noise](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Random Walk
+[Random Walk](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Stationarity
+[Stationarity](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Q-Statistic
+[Q-Statistic](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Time series decomposition
+[Time series decomposition](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
 # Modelling using statsmodels
 
-AR models
+[AR models](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-MA models
+[MA models](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-ARMA models
+[ARMA models](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-ARIMA models
+[ARIMA models](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-VAR models
+[VAR models](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-State space methods
+[State space methods](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-SARIMA models
+[SARIMA models](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
 # Projects - 10
 
-Time Series Analysis Projects ( 5 projects)
+[Time Series Analysis Projects ( 5 projects)](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Time Series Forecasting Projects( 4 projects)
+[Time Series Forecasting Projects( 4 projects)](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
 
-Demand Forecasting Project
+[Demand Forecasting Project](https://medium.com/coders-mojo/implemented-time-series-analysis-and-forecasting-projects-3adea88b7fe8?sk=7c05f325b2a14a44c84c4832a91a7be9)
