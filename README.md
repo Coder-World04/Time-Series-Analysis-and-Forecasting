@@ -1,6 +1,14 @@
 # Time-Series-Analysis-and-Forecasting
 This repository contains everything you need to become proficient in Time Series Analysis and Forecasting
 
+[Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[I took theses Projects Based Courses to Build Industry aligned Data Science and ML skills](https://open.substack.com/pub/naina0405/p/i-took-theses-projects-based-courses-af3?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[Part 1 - How to solve Any ML System Design Problem](https://open.substack.com/pub/naina0405/p/part-1-how-to-solve-any-ml-system?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+---------
+
 Day 1: [Introduction to Time Series Analysis and Forecasting](https://medium.com/coders-mojo/day-1-of-15-days-of-time-series-analysis-and-forecasting-with-projects-series-5ba3b6cf7528?sk=7a5826927d95b8fd22deae9ee53bc54d)
 
 # Statistics
